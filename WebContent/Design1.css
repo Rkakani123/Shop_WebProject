@@ -1,0 +1,66 @@
+body
+{
+ background-color: skyblue;
+ font-family: arial;
+}
+
+input
+{
+	
+	border-top : none;
+	border-left: none;
+	border-right: none;
+	height: 25px;
+	width: 200px;
+	border-color: white;
+	outline-color: white;
+}
+
+h1
+{
+	text-align: center;
+	background-color:;
+	color: white;
+	vertical-align: center;
+	font-size: 50px;
+	margin-top: 20px;
+	padding-top: 13px;
+}
+
+h4
+{
+	color: white;
+	text-align: center;
+}
+
+.tab1
+{
+	padding-top: 20px;
+	margin-left: 500px;
+	color:white;
+}
+
+.tab3
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+button
+{
+	border-bottom: white;
+	border-top: white;
+	border-left: white;
+	border-right: white;
+}
+
+table
+{
+	border-color:black;
+	border-bottom: white;
+	border-top: white;
+	border-left: white;
+	border-right: white;
+	border: 2px;
+	align : center;
+}
